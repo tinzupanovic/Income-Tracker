@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Income Tracker</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="save">Save</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string-array name="transaction_type">
+        <item>Income</item>
+        <item>Spending</item>
+    </string-array>
+    <string name="delete">Delete</string>
+</resources>
